@@ -23,6 +23,6 @@ public class AgeGroup {
         } else {
             System.out.print("and this is impossible! \nHumans max recorded age is 115, or you entered negative number.");
         }
-
+        System.out.println("end of file");
     }
 }
